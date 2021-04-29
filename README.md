@@ -24,4 +24,4 @@ _pip install deep_translator_
 
 # Exemplos de uso
 
-![image](https://drive.google.com/uc?export=view&id=<1DMyKh9JkJymZ6pwkQxHAkPKpnl2fWgfH>)
+
